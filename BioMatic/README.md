@@ -1,6 +1,6 @@
 # _Bio-Matic_
 
-![Preview](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Main%20Page.png)
+![Preview](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Main%20Page.png)![Preview2](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Profile.png)![Color Palette](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Color%20Palette.png)
 
 #### _Bio Matic, Bio Scanner for Interstellar Travel, October 3rd 2016_
 
