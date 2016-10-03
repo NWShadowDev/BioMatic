@@ -1,6 +1,5 @@
 # _Bio-Matic_
 
-![Preview](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Main%20Page.png)![Preview2](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Profile.png)![Color Palette](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Color%20Palette.png)
 
 #### _Bio Matic, Bio Scanner for Interstellar Travel, October 3rd 2016_
 
@@ -35,3 +34,5 @@ _ATOM Text Editor_
 *This application is licensed under the MIT license*
 
 Copyright (c) 2016 **_Jena SanCartier, Rachael Bermudes, Larry Tunseth, Amber Farrington_**
+
+![Preview](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Main%20Page.png)![Preview2](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Profile.png)![Color Palette](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Color%20Palette.png)
