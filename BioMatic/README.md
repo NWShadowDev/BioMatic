@@ -1,5 +1,6 @@
 # _Bio-Matic_
 
+![banner](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Screen%20Shot%202016-10-03%20at%204.23.46%20PM.png)
 
 #### _Bio Matic, Bio Scanner for Interstellar Travel, October 3rd 2016_
 
@@ -35,4 +36,6 @@ _ATOM Text Editor_
 
 Copyright (c) 2016 **_Jena SanCartier, Rachael Bermudes, Larry Tunseth, Amber Farrington_**
 
-![Preview](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Main%20Page.png)![Preview2](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Profile.png)![Color Palette](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Color%20Palette.png)
+![Preview](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Main%20Page.png)
+![Preview2](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Profile.png)
+![Color Palette](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Color%20Palette.png)
