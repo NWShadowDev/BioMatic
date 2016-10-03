@@ -1,5 +1,7 @@
 # _Bio-Matic_
 
+![Preview]()
+
 #### _Bio Matic, Bio Scanner for Interstellar Travel, October 3rd 2016_
 
 #### By _Jena SanCartier, Rachael Bermudes, Larry Tunseth, & Amber Farrington_
