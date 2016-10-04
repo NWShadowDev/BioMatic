@@ -1,6 +1,6 @@
 # _Bio-Matic_
 
-![banner](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Screen%20Shot%202016-10-03%20at%204.23.46%20PM.png)
+![banner](https://github.com/NWShadowDev/BioMatic/blob/master/img/Screen%20Shot%202016-10-03%20at%204.23.46%20PM.png)
 
 #### _Bio Matic, Bio Scanner for Interstellar Travel, October 3rd 2016_
 
@@ -9,6 +9,9 @@
 ## Description
 
 _This app is to show the user their vital signs such as blood pressure, blood-oxygen levels, and bone/muscle density in the form of a scanning device._
+
+Link to Invision live project
+https://invis.io/HK8TWZ7US
 
 ## Setup/Installation Requirements
 
@@ -36,6 +39,6 @@ _ATOM Text Editor_
 
 Copyright (c) 2016 **_Jena SanCartier, Rachael Bermudes, Larry Tunseth, Amber Farrington_**
 
-![Preview](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Main%20Page.png)
-![Preview2](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Profile.png)
-![Color Palette](https://github.com/NWShadowDev/BioMatic/blob/master/BioMatic/img/Color%20Palette.png)
+![Preview](https://github.com/NWShadowDev/BioMatic/blob/master/img/Main%20Page.png)
+![Preview2](https://github.com/NWShadowDev/BioMatic/blob/master/img/Profile.png)
+![Color Palette](https://github.com/NWShadowDev/BioMatic/blob/master/img/Color%20Palette.png)
