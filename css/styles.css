@@ -1,11 +1,31 @@
 body {
-  background-image: linear-gradient(#8FCBA6, #AFDFDA);
-  background-repeat: repeat;
-  background-size: cover;
-  height: 100vh;
+  background: linear-gradient(180deg, #8fcba6, #afdfda, #6f9856, #c4d9de);
+  -webkit-animation: AnimationName 5s ease infinite;
+  -moz-animation: AnimationName 5s ease infinite;
+  animation: AnimationName 5s ease infinite;
   color: white;
   font-family: 'Roboto', sans-serif; }
-
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 0% 47%; }
+  50% {
+    background-position: 100% 54%; }
+  100% {
+    background-position: 0% 47%; } }
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 0% 47%; }
+  50% {
+    background-position: 100% 54%; }
+  100% {
+    background-position: 0% 47%; } }
+@keyframes AnimationName {
+  0% {
+    background-position: 0% 47%; }
+  50% {
+    background-position: 100% 54%; }
+  100% {
+    background-position: 0% 47%; } }
 h1 {
   display: flex;
   justify-content: center;
@@ -25,8 +45,6 @@ h2 {
   margin: 2em;
   display: flex;
   justify-content: space-around; }
-  .sample-pages img {
-    height: 600px; }
 
 .overview {
   color: white;
@@ -53,9 +71,22 @@ p {
 
 .inspo-gallery {
   display: flex;
-  position: relative; }
-  .inspo-gallery img {
-    height: 600px;
-    width: 400px; }
+  justify-content: space-around;
+  margin: 2em; }
+
+.palette {
+  display: flex;
+  justify-content: space-around; }
+
+.research {
+  margin-top: 10em; }
+
+.user-personas {
+  display: flex;
+  justify-content: center;
+  margin: 4em; }
+
+.persona {
+  margin-top: 3em; }
 
 /*# sourceMappingURL=styles.css.map */
