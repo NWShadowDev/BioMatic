@@ -56,7 +56,8 @@ p {
   display: flex;
   justify-content: center;
   margin: 3em;
-  text-align: center; }
+  text-align: center;
+  font-size: 1.5em; }
 
 .context-challenge {
   margin-top: 15em; }
@@ -88,5 +89,13 @@ p {
 
 .persona {
   margin-top: 3em; }
+
+.profile-page {
+  display: flex;
+  justify-content: center;
+  margin: 1em; }
+
+.app {
+  padding: 1em; }
 
 /*# sourceMappingURL=styles.css.map */
