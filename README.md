@@ -13,6 +13,9 @@ _This app is to show the user their vital signs such as blood pressure, blood-ox
 Link to Invision live project
 https://invis.io/HK8TWZ7US
 
+Link to GH Pages Case Study Website
+https://nwshadowdev.github.io/BioMatic/
+
 ## Setup/Installation Requirements
 
 * _Must have iOS 10 for iPhone users (5S supported, but 6 or 7 for optimal), or 7.0 for Android/Samsung users._
